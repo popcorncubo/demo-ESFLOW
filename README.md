@@ -1,7 +1,8 @@
 # 寓管 EstateFlow Demo
 
 繁體中文、響應式物業管理互動示範。以原生 HTML、CSS、JavaScript 製作，不需要安裝相依套件。
-![Uploading 圖片.png…]()
+<img width="1914" height="915" alt="圖片" src="https://github.com/user-attachments/assets/63bbbcbe-41aa-465f-b657-080b6046e59b" />
+
 
 ## 操作範圍
 - 營運總覽：租金、入住率、案件與待處理維修。
